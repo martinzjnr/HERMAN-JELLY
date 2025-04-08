@@ -1,6 +1,6 @@
 // Initial Data
-let accountBalance = 57935.7;
-const pgkRate = 3.52;
+let accountBalance = 491449.065;
+const pgkRate = 4.07;
 let transactions = [
     { id: 1, type: 'credit', amount: 5000.00, description: 'Salary Deposit', date: '2025-03-25', time: '09:15 AM' },
     { id: 2, type: 'debit', amount: 1250.00, description: 'Rent Payment', date: '2025-03-22', time: '02:30 PM' },
